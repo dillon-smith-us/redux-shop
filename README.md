@@ -9,7 +9,6 @@ Shop Shop redux is a refactor assignment from a full-stack development course at
 * [Installation](#installation)
 * [Usage](#usage)
 * [Questions](#questions)
-* [License](#license)
 
 ## Installation 
 ### host this app on your local device:
